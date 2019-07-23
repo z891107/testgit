@@ -5,6 +5,7 @@ int main(){
 	scanf("%d", &a);
 	printf("two");
 	printf("twotwo");
+	printf("oneone");
 
 	return 0;
 }
