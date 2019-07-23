@@ -4,5 +4,7 @@ int main(){
 	printf("hello world");
 	scanf("%d", &a);
 	printf("two");
+	printf("twotwo");
+
 	return 0;
 }
